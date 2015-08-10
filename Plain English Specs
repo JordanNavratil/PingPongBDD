@@ -1,0 +1,27 @@
+----------Behavior 1----------
+Print all values up to the value entered by the user. The value 1 is the simplest possible input value.
+
+Input: 1
+Output: 1
+
+----------Behavior 2----------
+Print all values up to the value entered by the user. The value 2 is the second simplest possible input value
+
+Input: 2
+Output: [1, 2]
+
+----------Behavior 3----------
+Replace numbers divisible by 3 with "ping".
+
+Input: 3
+Output: 1, 2, ping
+
+----------Behavior 4----------
+Replace numbers divisible by 5 with "pong".
+Input: 5
+Output: 1, 2, ping, 4, pong
+
+----------Behavior 5----------
+Replace number divisible by both 3 and 5 with "ping-pong"
+Input: 15
+Output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, 12, 13, 14, ping-pong
